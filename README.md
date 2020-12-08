@@ -15,10 +15,11 @@
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
 
+- 🔭 Find me here: [Portfolio](https://donxj.com), [Blog](https://blog.donxj.com), [ART](https://art.donxj.com).
 - 👯 Building [Windows Automator](https://github.com/sengoku-f/Win-Automator/), [Mktext Api](https://api.donxj.com/mktext), [REALURL](https://api.donxj.com/geturl) and more.
+- 📫 Email me at: [i.donxj@gmail.com](mailto:i.donxj@gmail.com)
+- ⚡ JavaScript / Python / HTML / UI Design / Motion Graphics / Shell / Batch.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 Email me at: [i.donxj@gmail.com](mailto:i.donxj@gmail.com)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-- ⚡ JavaScript / Python / HTML / UI Design / Motion Graphics / Shell / Batch.
